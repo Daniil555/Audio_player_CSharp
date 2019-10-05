@@ -8,4 +8,3 @@ IDE - sudo apt-get install mono-devel
 компиляция - mcs hello.cs
 компиляция с привязкой GTK - mcs hello.cs -pkg:gtk-sharp-2.0
 запуск программы - mono hello.cs
-1
